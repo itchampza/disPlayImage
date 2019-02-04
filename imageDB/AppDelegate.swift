@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  imageDB
 //
-//  Created by Admin on 30/1/2562 BE.
-//  Copyright © 2562 Saiwarun.Y. All rights reserved.
-//
+
 
 import UIKit
 import CoreData
