@@ -2,9 +2,7 @@
 //  ViewController.swift
 //  connectDB
 //
-//  Created by Admin on 29/1/2562 BE.
-//  Copyright © 2562 Saiwarun.Y. All rights reserved.
-//
+
 
 import UIKit
 
